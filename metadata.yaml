@@ -1,5 +1,5 @@
 _repo: The-Hand-of-the-Mighty-and-Other-Stories_52563
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   contributor:
     agent_name: Kester, Paul
@@ -7,6 +7,9 @@ contributor:
     deathdate: 1933
     gutenberg_agent_id: '46927'
     url: http://www.gutenberg.org/2009/agents/46927
+covers:
+- cover_type: archival
+  image_path: 52563-h/images/cover.jpg
 creator:
   author:
     agent_name: Kester, Vaughan
@@ -15,6 +18,8 @@ creator:
     gutenberg_agent_id: '1707'
     url: http://www.gutenberg.org/2009/agents/1707
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52563#The-Hand-of-the-Mighty-and-Other-Stories
 gutenberg_issued: '2016-07-11'
 gutenberg_type: Text
 identifiers:
