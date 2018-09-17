@@ -1,0 +1,36 @@
+_repo: The-Hand-of-the-Mighty-and-Other-Stories_52563
+_version: 0.0.1
+contributor:
+  contributor:
+    agent_name: Kester, Paul
+    birthdate: 1870
+    deathdate: 1933
+    gutenberg_agent_id: '46927'
+    url: http://www.gutenberg.org/2009/agents/46927
+creator:
+  author:
+    agent_name: Kester, Vaughan
+    birthdate: 1869
+    deathdate: 1911
+    gutenberg_agent_id: '1707'
+    url: http://www.gutenberg.org/2009/agents/1707
+description: ''
+gutenberg_issued: '2016-07-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52563'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'American fiction -- 20th century'
+- !lcsh 'Short stories, American'
+- GITenberg
+tableOfContents: Vaughan Kester -- The hand of the mighty -- The bad man of Las Vegas
+  -- Mollie darling -- The blood of his ancestors -- When we have waited -- The deserter
+  -- What Rearton saw -- How Mr. Rathburn was brought in -- Miss Caxton's father --
+  The half-breed -- Willie -- Mr. Feeney's social experiment -- All that a man hath.
+title: The Hand of the Mighty, and Other Stories
+url: http://www.gutenberg.org/ebooks/52563
